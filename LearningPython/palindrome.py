@@ -1,5 +1,3 @@
-# Python code​​​​​​‌​‌​‌‌‌‌​​‌‌​​‌‌‌‌‌‌​​​​​ below
-# Use print("messages...") to debug your solution.
 import re
 
 show_expected_result = False
